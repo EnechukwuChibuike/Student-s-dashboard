@@ -81,7 +81,7 @@ function Body() {
                      <div className="hover_main">
                         <div className="border"></div>
                         <div className="hover_sub">
-                           <img className="hover_img" src={User} alt="User" />
+                           <img className="hover_img" src='/User.svg' alt="User" />
                            <p style={{ marginRight: "60px" }}>Peter McMan</p>
                            <p style={{ marginRight: "60px" }}>HTML & CSS</p>
                         </div>
@@ -99,7 +99,7 @@ function Body() {
                      <div className="hover_main">
                         <div className="border"></div>
                         <div className="hover_sub">
-                           <img className="hover_img" src={User} alt="User" />
+                           <img className="hover_img" src='/User.svg' alt="User" />
                            <p style={{ marginRight: "60px" }}>Jane Doe</p>
                            <p style={{ marginRight: "60px" }}>Photoshop</p>
                         </div>
@@ -118,7 +118,7 @@ function Body() {
                      <div className="hover_main">
                         <div className="border"></div>
                         <div className="hover_sub">
-                           <img className="hover_img" src={User} alt="User" />
+                           <img className="hover_img" src='/User.svg' alt="User" />
                            <p style={{ marginRight: "60px" }}>Derrick Lin</p>
                            <p style={{ marginRight: "60px" }}>JavaScript</p>
                         </div>
@@ -136,7 +136,7 @@ function Body() {
                      <div className="hover_main">
                         <div className="border"></div>
                         <div className="hover_sub">
-                           <img className="hover_img" src={User} alt="User" />
+                           <img className="hover_img" src='/User.svg' alt="User" />
                            <p style={{ marginRight: "40px" }}>
                               Joseph Peterson
                            </p>

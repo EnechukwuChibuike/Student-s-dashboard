@@ -134,7 +134,7 @@ function Body() {
                   React.createElement(
                      "div",
                      { className: "hover_sub" },
-                     React.createElement("img", { className: "hover_img", src: User, alt: "User" }),
+                     React.createElement("img", { className: "hover_img", src: "/User.svg", alt: "User" }),
                      React.createElement(
                         "p",
                         { style: { marginRight: "60px" } },
@@ -176,7 +176,7 @@ function Body() {
                   React.createElement(
                      "div",
                      { className: "hover_sub" },
-                     React.createElement("img", { className: "hover_img", src: User, alt: "User" }),
+                     React.createElement("img", { className: "hover_img", src: "/User.svg", alt: "User" }),
                      React.createElement(
                         "p",
                         { style: { marginRight: "60px" } },
@@ -218,7 +218,7 @@ function Body() {
                   React.createElement(
                      "div",
                      { className: "hover_sub" },
-                     React.createElement("img", { className: "hover_img", src: User, alt: "User" }),
+                     React.createElement("img", { className: "hover_img", src: "/User.svg", alt: "User" }),
                      React.createElement(
                         "p",
                         { style: { marginRight: "60px" } },
@@ -260,7 +260,7 @@ function Body() {
                   React.createElement(
                      "div",
                      { className: "hover_sub" },
-                     React.createElement("img", { className: "hover_img", src: User, alt: "User" }),
+                     React.createElement("img", { className: "hover_img", src: "/User.svg", alt: "User" }),
                      React.createElement(
                         "p",
                         { style: { marginRight: "40px" } },
